@@ -1,6 +1,4 @@
-# React + Vite
-
-# rmwiki
+# React + Vite   rmwiki
 
 Personal knowledge base and documentation site.
 
