@@ -1,6 +1,4 @@
-# React + Vite   rmwiki
-
-Personal knowledge base and documentation site.
+# rmwiki
 
 ### ⚡ API Source
 This project uses the **Rick and Morty API** to fetch character and episode data.
